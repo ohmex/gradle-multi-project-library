@@ -1,0 +1,4 @@
+rootProject.name = 'multi-project-library'
+
+include 'util'
+include 'core'
